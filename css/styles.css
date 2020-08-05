@@ -384,13 +384,16 @@ body{
     
 }
 .social-media a:nth-child(2){
-    color: #1da1f2;
+    /* color: #1da1f2; */
+    color: #3b5998;
 }
 .social-media a:nth-child(3){
-    color: #007bb5;
+    /* color: #007bb5; */
+    color: #3b5998;
 }
 .social-media a:last-child{
-    color: #c32aa3;
+    /* color: #c32aa3; */
+    color: #3b5998;
 }
 
 /*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
